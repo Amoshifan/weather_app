@@ -1,7 +1,7 @@
 # logic.py
 import requests
 
-API_KEY = "your_openweathermap_api_key"  # Replace with your OpenWeatherMap API key
+API_KEY = "1297c548bd5fb6de8d35ee4f192ffce1"  # OpenWeatherMap API key
 BASE_URL = "http://api.openweathermap.org/data/2.5/weather"
 
 def fetch_weather_data(city):
